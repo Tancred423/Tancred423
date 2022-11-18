@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 <a href="https://github.com/Tancred423">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tancred423&show_icons=true&hide=stars" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tancred423&layout=compact&langs_count=10" />
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Tancred423&show_icons=true&hide=stars" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tancred423&layout=compact&langs_count=10" />
 </a>
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/38757664/201935504-1236f11f-c389-4923-8237-162c70cf7ea7.svg)
